@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: infer-eval
+Version: 0.1.0
+Summary: Evaluation scenarios, executable reference solutions and graders for LLM inference / GPU systems reasoning
+Requires-Python: >=3.9
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"

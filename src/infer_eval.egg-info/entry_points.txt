@@ -1,0 +1,2 @@
+[console_scripts]
+infer-eval = infer_eval.cli:main
